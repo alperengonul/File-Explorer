@@ -1,0 +1,10 @@
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\19.10.2021(winpencere).csprojAssemblyReference.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\_19._10._2021_winpencere_.Form1.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\_19._10._2021_winpencere_.Properties.Resources.resources
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\19.10.2021(winpencere).csproj.GenerateResource.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\19.10.2021(winpencere).csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\bin\Debug\19.10.2021(winpencere).exe.config
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\bin\Debug\19.10.2021(winpencere).exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\bin\Debug\19.10.2021(winpencere).pdb
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\19.10.2021(winpencere).exe
+C:\Users\Alperen\Desktop\3.sınıf 1.dönem ders\görsel programlama uyg\19.10.2021(üçüncü ders)\19.10.2021(winpencere)\obj\Debug\19.10.2021(winpencere).pdb
